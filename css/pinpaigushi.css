@@ -1,0 +1,366 @@
+/*导航开始*/
+.BOX{
+	width: 100%;
+	height: 600px;
+	/*background: red;*/
+	margin: 0 auto;
+	background-image:url(../img/dfgdgdshf_01.jpg); 	
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: 1920px auto;
+	/*clear: both;*/
+}
+.neikuan{
+	width: 1200px;
+	height: 543px;
+	/*background: red;*/
+	margin: 0 auto;
+	/*float: left;*/
+	
+
+}
+.box_logo{
+	margin: 0 auto;
+	margin-left: 179px;
+
+}
+.box{
+	width: 577px;
+	height: 422px;
+	/*background: blue;*/
+	margin: 0 auto;
+	float: left;
+	margin-top: 75px;
+	margin-left: 258px;
+
+}
+.box5{
+	margin-top: 70px;
+}
+.qiyewz_sy1{
+	width: 22px;
+	height:211px;
+	float: left;
+}
+.qiyewz_sy{
+	font-size:24px;
+	color: black; 
+}
+.qiyewz_tj{
+	font-size:24px;
+	color :#f56a69;
+}
+.qiyewz_xp22{
+	font-size:20px;
+	color :#f56a69;
+}
+.qiyewz_xp1{
+	width: 22px;
+	height:211px;
+	/*position: absolute;*/
+	float: left;
+	margin-left:89px;
+}
+.qiyewz_xp{
+	font-size:20px;
+	color: #000000; 
+}
+.qiyewz_xp2{
+	font-size: 12px;
+	color: #b3b3a2;
+}
+.qiyewz_xp:hover{
+	color: #aeaeac; 
+}
+/*导航结束*/
+
+/*内容开始*/
+.neirong{
+	width: 100%;
+	height: 2014px;
+	background:#eaeae5;
+	margin: 0 auto;
+}
+.neikuan1{
+	width: 1200px;
+	height: 1469px;
+	background: #eaeae5;
+	margin: 0 auto;
+}
+.neirong_shang{
+	width: 1200px;
+	height: 106px;
+	
+	/*background: red;*/
+}
+/*面包屑开始*/
+.mianbaoxie{
+	width: 132px;
+	height: 20px;
+	/*background: blue;*/
+	margin-top: 50px;
+	float: left;
+}
+.mianbaoxie_shiti{
+	float: left;
+	/*margin: 0 auto;*/
+	margin-top: 2px;
+	margin-left: 5px;
+	
+}
+.mianbaoxie_sy{
+	font-size: 16px;
+	color: #342d2e;
+	float: left;
+	/*margin-top: 50px;*/
+}
+.mianbaoxie_xp{
+	font-size: 16px;
+	color: #342d2e;
+	float: left;
+	margin-left: 5px;
+	/*margin-top: 10px;*/
+}
+/*面包屑结束*/
+.neirong_gushi{
+	width: 1063px;
+	height: 233px;
+	/*background: red;*/
+	margin: 0 auto;
+}
+.gushi{
+	width: 456px;
+	height: 77px;
+	/*background: green;*/
+	margin-top: 78px;
+	float: left;
+}
+.ppgs1{
+	font-size: 36px;
+	color: #342d2e;
+	float: left;
+}
+.ppgs2{
+	font-size: 18px;
+	color: #342d2e;
+	float: left;
+	margin-left: 50px;
+	margin-top: 20px;
+}
+.ppgs3{
+	font-size: 18px;
+	color: #342d2e;
+	margin-top: 55px;
+}
+.neirong_dingwei{
+	width: 1063px;
+	height:449px;
+	/*background: blue;*/
+	margin: 0 auto;
+}
+.yijia{
+	width: 707px;
+	height: 243px;
+	/*background: red;*/
+	margin-top: 45px;
+	margin-left: 33px;
+	float: left;
+}
+.tianpin1{
+	font-size: 20px;
+	color: #2b2121;
+	margin-left: 100px;
+}
+.tianpin2{
+	font-size: 20px;
+	color: #2b2121;
+	margin-left: 33px;
+	margin-top: 27px;
+}
+.rixi{
+	float: left;
+	margin-top: 92px;
+	margin-left:106px;
+}
+.neirong_linian{
+	width: 1063px;
+	height:449px;
+	/*background: blue;*/
+	margin: 0 auto;
+}
+.dichan{
+	width: 707px;
+	height: 243px;
+	/*background: red;*/
+	margin-top: 45px;
+	margin-left: 33px;
+	float: left;
+}
+.xiaofei1{
+	font-size: 20px;
+	color: #2b2121;
+	margin-left: 100px;
+}
+.xiaofei2{
+	font-size: 20px;
+	color: #2b2121;
+	margin-left: 33px;
+	margin-top: 27px;
+}
+.rixi1{
+	float: left;
+	margin-top: 92px;
+	margin-left:106px;
+}
+.neirong_dizhi{
+	width: 1063px;
+	height:500px;
+	/*background: blue;*/
+	margin: 0 auto;
+}
+.chengzuo{
+	margin-top: 41px;
+	margin-left: 55px;
+	float: left;
+}
+.gongjiao{
+	width: 708px;
+	height: 370px;
+	/*background: red;*/
+	float: left;
+	margin-top: 41px;
+
+}
+.dizhi1{
+	font-size: 36px;
+	color:#987e82;
+	margin-left: 51px;
+}
+.dizhi2{
+	font-size:20px;
+	color:#987e82;
+	margin-left: 51px;
+	margin-top: 27px;
+}
+/*内容结束*/
+.div{
+	width: 100%;
+	height: 498px;
+	background: red;
+	margin: 0 auto;
+	background-image:url(../img/hjbjhb.jpg); 	
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: 1920px auto;
+	margin-top: 47px;
+	opacity:0.2;
+}
+/*站点地图开始*/
+.zhandianditu{
+	width: 100%;
+	height: 498px;
+	background: red;
+	margin: 0 auto;
+	background-image:url(../img/5656156156.png); 	
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: 1920px auto;
+}
+.zddt_logo{
+	margin-left: 519px;
+	margin-top:-78px ;
+}
+.zddt_box{
+	width: 1022px;
+	height: 262px;
+	/*background: red;*/
+	margin: 0 auto;
+	margin-top: 39px;
+}
+.zddt_1{
+	float: left;
+}
+.zddt_2{
+	margin-left: 179px;
+	float: left;
+}
+.zddt_3{
+	margin-left: 179px;
+	float: left;
+}
+.zddt_4{
+	margin-left: 179px;
+	float: left;
+}
+.gongan{
+	float: left;
+	margin-left:150px;
+	margin-top: 80px;
+}
+/*站点地图结束*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
